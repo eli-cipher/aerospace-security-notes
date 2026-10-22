@@ -30,6 +30,8 @@ aerospace-security-notes/
 ├── fundamentals/
 ├── attack-surface/
 ├── offensive-techniques/
+|-- CONTRIBUTING.md
+|-- README.md
 └── sources.md
 ```
 
