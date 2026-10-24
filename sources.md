@@ -13,7 +13,7 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 
 ## Also consulted (general background)
 
-- Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
+- Romel Marin, aerospace cybersecurity and satellite security notes (Wiki) — personal reference material, not quoted or copied directly
 # Sources
 
 Every source this repo draws from, credited openly. Notes are written in the author's own words after reading these — never copy-pasted — but the facts, figures, and incidents referenced trace back here.
@@ -29,4 +29,4 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 
 ## Also consulted (general background)
 
-- Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
+- Romel Marin, aerospace cybersecurity and satellite security notes (Wiki) — personal reference material, not quoted or copied directly
