@@ -31,3 +31,9 @@ None of these incidents happened because the attackers were unstoppable geniuses
 That's the point this whole repository exists to work against. Understanding exactly how these systems get broken — not vaguely, but in real technical detail — is what makes it possible to build the next generation of space infrastructure so it doesn't repeat the same mistakes. Security isn't a feature bolted onto space systems after the fact. It has to be foundational to whether any of this — the Moon bases, the Mars missions, the satellites quietly running daily life down here — actually survives long enough to matter.
 
 That's where the rest of this repo picks up: starting from the fundamentals of what a satellite actually is, then working toward exactly where and how these systems can be broken.
+
+---
+
+**Next:** [`orbits.md`](orbits.md) — now that you know *why security for satellites* , where these satellites actually lives, next.
+
+---
