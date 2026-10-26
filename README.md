@@ -41,4 +41,4 @@ aerospace-security-notes/
 
 ## Status
 
-🚧 Actively being written. See `sources.md` for what's been consulted so far.
+🚧 Actively being written. Refer `sources.md` for what's been consulted so far.
