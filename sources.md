@@ -16,6 +16,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - OrbitalRadar, "Types of Orbits" — https://orbitalradar.com/types-of-orbits
 - Wikipedia, "Molniya orbit" — https://en.wikipedia.org/wiki/Molniya_orbit
 
+## fundamentals/satellite-types.md
+
+- NewSpace Economy, "Satellite Classification Taxonomy" — https://newspaceeconomy.ca/2023/03/28/satellite-classification-taxonomy/
+- Wikipedia, "CubeSat" — https://en.wikipedia.org/wiki/CubeSat
+
 ## Also consulted (general background)
 
-- Romel Marin, aerospace cybersecurity and satellite security notes (Wiki) — personal reference material, not quoted or copied directly
+- Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
