@@ -21,6 +21,13 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - NewSpace Economy, "Satellite Classification Taxonomy" — https://newspaceeconomy.ca/2023/03/28/satellite-classification-taxonomy/
 - Wikipedia, "CubeSat" — https://en.wikipedia.org/wiki/CubeSat
 
+## fundamentals/hardware-components.md
+
+- NASA, "Basics of Space Flight," Chapter 11: Spacecraft Subsystems — https://science.nasa.gov/learn/basics-of-space-flight/chapter11-1/
+- NewSpace Economy, "What Are the Components of a Satellite?" — https://newspaceeconomy.ca/2023/04/05/what-are-the-components-of-a-satellite/
+- Mouser Electronics, "7 Things to Know About Spacecraft Subsystems Before Your Next Trip to Mars" — https://resources.mouser.com/space/7-things-to-know-about-spacecraft-subsystems-before-your-next-trip-to-mars
+- Refonte Learning, "Satellite Subsystems Explained in 2026: Power, Thermal, Propulsion, ADCS, OBC, and Payload" — https://www.refontelearning.com/blog/satellite-subsystems-explained
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
