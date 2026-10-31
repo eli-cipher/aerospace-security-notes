@@ -28,6 +28,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Mouser Electronics, "7 Things to Know About Spacecraft Subsystems Before Your Next Trip to Mars" — https://resources.mouser.com/space/7-things-to-know-about-spacecraft-subsystems-before-your-next-trip-to-mars
 - Refonte Learning, "Satellite Subsystems Explained in 2026: Power, Thermal, Propulsion, ADCS, OBC, and Payload" — https://www.refontelearning.com/blog/satellite-subsystems-explained
 
+## fundamentals/software-components.md
+
+- PHXCubeSat (Arizona State University), "Flight Software" — https://phxcubesat.asu.edu/subsystems/flight-software
+- NASA, "cFS (core Flight System) Overview" (Richard Landau, NASA, 2024) — https://directory.elisa.tech/workshops/2024-12-Maryland/cFS-Overview-Richard-Landau-NASA.pdf
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
