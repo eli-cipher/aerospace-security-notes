@@ -33,6 +33,12 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - PHXCubeSat (Arizona State University), "Flight Software" — https://phxcubesat.asu.edu/subsystems/flight-software
 - NASA, "cFS (core Flight System) Overview" (Richard Landau, NASA, 2024) — https://directory.elisa.tech/workshops/2024-12-Maryland/cFS-Overview-Richard-Landau-NASA.pdf
 
+## fundamentals/communication-protocols.md
+
+- SpaceNews, "CCSDS at 20 years" — https://spacenews.com/?p=36007
+- ESA, "SpaceWire" — https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Onboard_Computers_and_Data_Handling/SpaceWire
+- NASA, "DTN SpaceOps Paper" (Israel D., 2021) — https://ntrs.nasa.gov/api/citations/20210013734/downloads/DTN%20SpaceOps%20Paper%202021%20Israel%20D.pdf
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
