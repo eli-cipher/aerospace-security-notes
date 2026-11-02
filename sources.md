@@ -39,6 +39,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - ESA, "SpaceWire" — https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Onboard_Computers_and_Data_Handling/SpaceWire
 - NASA, "DTN SpaceOps Paper" (Israel D., 2021) — https://ntrs.nasa.gov/api/citations/20210013734/downloads/DTN%20SpaceOps%20Paper%202021%20Israel%20D.pdf
 
+## fundamentals/data-formats.md
+
+- PDS Small Bodies Node, CONTOUR mission telemetry documentation — https://pds-smallbodies.astro.umd.edu/holdings/con-cal-all-6-doc-set-v1.0/browse/hayes/common/telemetry.htm
+- NASA Earthdata, "Data Processing Levels" — https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
