@@ -44,6 +44,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - PDS Small Bodies Node, CONTOUR mission telemetry documentation — https://pds-smallbodies.astro.umd.edu/holdings/con-cal-all-6-doc-set-v1.0/browse/hayes/common/telemetry.htm
 - NASA Earthdata, "Data Processing Levels" — https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels
 
+## fundamentals/ground-antennas.md
+
+- Refonte Learning, "Satellite Antenna Design Basics in 2026: Types, Materials, and Trade-Offs" — https://www.refontelearning.com/blog/satellite-antenna-design-basics
+- USU SmallSat Conference 2025, "From Dishes to Distributed Arrays: Towards Efficient and Interference-Free Satellite Ground Stations" — https://digitalcommons.usu.edu/smallsat/2025/all2025/21
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
