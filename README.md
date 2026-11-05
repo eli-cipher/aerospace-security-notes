@@ -4,7 +4,7 @@
 
 A beginner-friendly study resource for aerospace and satellite cybersecurity — structured to take someone from zero to real offensive technique, one level at a time, without needing ten scattered sources to piece it together.
 
-Notes are written in plain language, in the author's own words, synthesized across multiple sources. Full source list: [`sources.md`](sources.md).
+Notes are written in plain language, in the author's own words, synthesized across multiple sources. Full source list is available: [`sources.md`](sources.md).
 
 **Author:** Eli Cipher
 
