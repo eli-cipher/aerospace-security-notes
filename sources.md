@@ -49,6 +49,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Refonte Learning, "Satellite Antenna Design Basics in 2026: Types, Materials, and Trade-Offs" — https://www.refontelearning.com/blog/satellite-antenna-design-basics
 - USU SmallSat Conference 2025, "From Dishes to Distributed Arrays: Towards Efficient and Interference-Free Satellite Ground Stations" — https://digitalcommons.usu.edu/smallsat/2025/all2025/21
 
+## attack-surface/user-segment.md
+
+- Help Net Security (reporting on IOActive research), "The dismal state of SATCOM security" — https://www.helpnetsecurity.com/?p=37041
+- Lenders, Willbold, Bisping, "Breaking the Beam: Exploiting VSAT Satellite Modems from the Earth's Surface," DEF CON 32 (2024) — https://infocondb.org/con/def-con/def-con-32/breaking-the-beam-exploiting-vsat-satellite-modems-from-the-earths-surface
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
