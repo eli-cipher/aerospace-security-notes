@@ -54,6 +54,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Help Net Security (reporting on IOActive research), "The dismal state of SATCOM security" — https://www.helpnetsecurity.com/?p=37041
 - Lenders, Willbold, Bisping, "Breaking the Beam: Exploiting VSAT Satellite Modems from the Earth's Surface," DEF CON 32 (2024) — https://infocondb.org/con/def-con/def-con-32/breaking-the-beam-exploiting-vsat-satellite-modems-from-the-earths-surface
 
+## attack-surface/link-segment.md
+
+- Aerospace Security Project (CSIS), "Space Threat Assessment" — https://aerospace.csis.org/wp-content/uploads/2018/09/Space-System-Threats.pdf
+- GPSPATRON, "Maritime GNSS Interference Worldwide: A Cumulative Analysis 2025" — https://gpspatron.com/maritime-gnss-interference-worldwide-a-cumulative-analysis-2025/
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
