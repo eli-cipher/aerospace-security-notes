@@ -59,6 +59,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Aerospace Security Project (CSIS), "Space Threat Assessment" — https://aerospace.csis.org/wp-content/uploads/2018/09/Space-System-Threats.pdf
 - GPSPATRON, "Maritime GNSS Interference Worldwide: A Cumulative Analysis 2025" — https://gpspatron.com/maritime-gnss-interference-worldwide-a-cumulative-analysis-2025/
 
+## attack-surface/ground-segment.md
+
+- Infosecurity Magazine (Benny Czarny, OPSWAT), "Why Space Infrastructure's Biggest Cyber Risk Never Leaves the Ground" — https://www.infosecurity-magazine.com/opinions/space-cyber-risk-ground/
+- UK DSIT / Actica Consulting report, via NASNI Consultants, "UK Report Warns Cloud-Linked Satellite Stations Could Lead to Cyberattacks" — https://nasniconsultants.com/?p=51070
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
