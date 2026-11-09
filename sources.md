@@ -64,6 +64,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Infosecurity Magazine (Benny Czarny, OPSWAT), "Why Space Infrastructure's Biggest Cyber Risk Never Leaves the Ground" — https://www.infosecurity-magazine.com/opinions/space-cyber-risk-ground/
 - UK DSIT / Actica Consulting report, via NASNI Consultants, "UK Report Warns Cloud-Linked Satellite Stations Could Lead to Cyberattacks" — https://nasniconsultants.com/?p=51070
 
+## offensive-techniques/signal-interception.md
+
+- Security Boulevard, "Sky-High Hack: How $600 Unlocked Global Secrets Streaming from Space" (Oct 2025) — https://securityboulevard.com/2025/10/sky-high-hack-how-600-unlocked-global-secrets-streaming-from-space/
+- RTL-SDR.com, satellite interception tag/reference page — https://www.rtl-sdr.com/tag/satellite-2/
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
