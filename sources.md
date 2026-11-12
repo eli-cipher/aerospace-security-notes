@@ -3,7 +3,7 @@
 Every source this repo draws from, credited openly. Notes are written in the author's own words after reading these — never copy-pasted — but the facts, figures, and incidents referenced trace back here.
 
 ## fundamentals/why-satellite-cybersecurity.md
-    
+
 - ENISA, *Space Threat Landscape Report* (March 2025) — https://enisa.europa.eu/sites/default/files/2025-03/Space_Threat_Landscape_Report_fin.pdf
 - Scientific American, "We Need Cybersecurity in Space to Protect Satellites" — https://www.scientificamerican.com/article/we-need-cybersecurity-in-space-to-protect-satellites/
 - Aerospace Corporation, "Multi-Orbit Networks Expand the Attack Surface, But Basic Cyber Threats Remain, Experts Say" (Nov 2025) — https://news.aerospace.org/2025/11/25/multi-orbit-networks-expand-the-attack-surface-but-basic-cyber-threats-remain-experts-say/
@@ -73,6 +73,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 
 - CSIS, "Satellite Jamming" (On the Radar issue brief) — https://ontheradar.csis.org/issue-briefs/satellite-jamming/
 - TechRadar, reporting on UT Austin/Stanford research, "A massive escalation in electronic warfare: researchers show how Russian satellites can jam GPS across Europe" (2026) — https://www.techradar.com/computing/a-massive-escalation-in-electronic-warfare-researchers-show-how-russian-satellites-can-jam-gps-across-europe-and-a-mysterious-series-of-interference-events-show-it-could-already-be-happening
+
+## offensive-techniques/spoofing-injection.md
+
+- IEEE Spectrum, "GPS Spoofing Attacks Are Dangerously Misleading Airliners" — https://spectrum.ieee.org/gps-spoofing-2670499105
+- The Print, "What Is GPS Spoofing, Common Along India-Pakistan Border and Now Disrupting Delhi Airport" (Nov 2025) — https://theprint.in/feature/what-is-gps-spoofing-common-along-india-pakistan-border-and-now-disrupting-delhi-airport/2778509
 
 ## Also consulted (general background)
 
