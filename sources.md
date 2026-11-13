@@ -79,6 +79,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - IEEE Spectrum, "GPS Spoofing Attacks Are Dangerously Misleading Airliners" — https://spectrum.ieee.org/gps-spoofing-2670499105
 - The Print, "What Is GPS Spoofing, Common Along India-Pakistan Border and Now Disrupting Delhi Airport" (Nov 2025) — https://theprint.in/feature/what-is-gps-spoofing-common-along-india-pakistan-border-and-now-disrupting-delhi-airport/2778509
 
+## offensive-techniques/c2-hijacking.md
+
+- Kratos Space, "Analysis of Thales' Successful Compromise of ESA OPS-SAT Experiment" — https://www.kratosspace.com/constellations/articles/analysis-of-thales-successful-compromise-of-esa-ops-sat-experiment
+- MITRE / Aerospace Corporation SPARTA, "SV-AC-3: Compromised master keys or any encryption key" — https://sparta.aerospace.org/v2.0/related-work/threats/SV-AC-3
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
