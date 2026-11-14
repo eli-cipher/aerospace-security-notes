@@ -84,6 +84,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Kratos Space, "Analysis of Thales' Successful Compromise of ESA OPS-SAT Experiment" — https://www.kratosspace.com/constellations/articles/analysis-of-thales-successful-compromise-of-esa-ops-sat-experiment
 - MITRE / Aerospace Corporation SPARTA, "SV-AC-3: Compromised master keys or any encryption key" — https://sparta.aerospace.org/v2.0/related-work/threats/SV-AC-3
 
+## offensive-techniques/satellite-bus-attacks.md
+
+- The Aerospace Corporation (Medium), "Hacking an On-Orbit Satellite: An Analysis of the CYSAT 2023 Demo" — https://medium.com/the-aerospace-corporation/hacking-an-on-orbit-satellite-an-analysis-of-the-cysat-2023-demo-ae241e5b8ee5
+- The Hacker News, "NASA AIT-GUI Flaws Could Let Attackers Send Unauthenticated Spacecraft Commands" (Aug 2026) — https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
