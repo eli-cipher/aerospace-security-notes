@@ -89,6 +89,12 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - The Aerospace Corporation (Medium), "Hacking an On-Orbit Satellite: An Analysis of the CYSAT 2023 Demo" — https://medium.com/the-aerospace-corporation/hacking-an-on-orbit-satellite-an-analysis-of-the-cysat-2023-demo-ae241e5b8ee5
 - The Hacker News, "NASA AIT-GUI Flaws Could Let Attackers Send Unauthenticated Spacecraft Commands" (Aug 2026) — https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html
 
+## offensive-techniques/vsat-network-attacks.md
+
+- Willbold, Schloegel, Bisping, Strohmeier, Holz, Lenders, "VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices," ACM WiSec 2024 — https://cispa.de/en/research/publications/79325-vsaster-uncovering-inherent-security-issues-in-current-vsat-system-practices
+- Bitdefender HOTforSecurity, "Satellite Internet Gear Aboard Ships Exposed to Unauthorized Access" — https://www.bitdefender.com/en-us/blog/hotforsecurity/satellite-internet-gear-aboard-ships-exposed-unauthorized-access
+- Riviera Maritime Media, "Ensure VSAT Modems Cannot Be Hacked" (covering Trustwave SpiderLabs SatLink modem testing) — https://www.rivieramm.com/news-content-hub/ensure-vsat-modems-cannot-be-hacked-57065
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
