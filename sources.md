@@ -95,6 +95,11 @@ Every source this repo draws from, credited openly. Notes are written in the aut
 - Bitdefender HOTforSecurity, "Satellite Internet Gear Aboard Ships Exposed to Unauthorized Access" — https://www.bitdefender.com/en-us/blog/hotforsecurity/satellite-internet-gear-aboard-ships-exposed-unauthorized-access
 - Riviera Maritime Media, "Ensure VSAT Modems Cannot Be Hacked" (covering Trustwave SpiderLabs SatLink modem testing) — https://www.rivieramm.com/news-content-hub/ensure-vsat-modems-cannot-be-hacked-57065
 
+## offensive-techniques/replay-telemetry-tampering.md
+
+- "Open Sky, Open Threats: Replay Attacks in Space Launch and Re-entry Phases" (2025) — https://arxiv.org/abs/2506.17446
+- MITRE / Aerospace Corporation SPARTA, "DE-0002.01: Disrupt or Deceive Downlink — Inhibit Ground System Functionality" — https://sparta.aerospace.org/technique/DE-0002/01
+
 ## Also consulted (general background)
 
 - Romel Marin, aerospace cybersecurity and satellite security notes (PDF) — personal reference material, not quoted or copied directly
