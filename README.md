@@ -1,10 +1,8 @@
 # aerospace-security-notes
 
-> 🚧 **Under construction.** Being written file by file. An empty or stub file means that topic is planned, not missing — check each folder's own `README.md` to see what's ready.
-
 A beginner-friendly study resource for aerospace and satellite cybersecurity — structured to take someone from zero to real offensive technique, one level at a time, without needing ten scattered sources to piece it together.
 
-Notes are written in plain language, in the author's own words, synthesized across multiple sources. Full source list is available: [`sources.md`](sources.md).
+Notes are written in plain language, in the author's own words, synthesized across multiple sources. Full source list: [`sources.md`](sources.md).
 
 **Author:** Eli Cipher
 
@@ -30,8 +28,6 @@ aerospace-security-notes/
 ├── fundamentals/
 ├── attack-surface/
 ├── offensive-techniques/
-|-- CONTRIBUTING.md
-|-- README.md
 └── sources.md
 ```
 
@@ -41,4 +37,4 @@ aerospace-security-notes/
 
 ## Status
 
-🚧 Actively in written/construction state. Refer `sources.md` for what's been consulted so far.
+✅ Complete — all 18 notes across `fundamentals/`, `attack-surface/`, and `offensive-techniques/` are written. See `sources.md` for the full list of what was consulted.
