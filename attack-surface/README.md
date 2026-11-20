@@ -1,55 +1,46 @@
 # 🎯 attack-surface/
 
-Don't start here. This folder assumes [`fundamentals/`](../fundamentals/) — every attack vector below is explained in terms of a component or protocol defined there.
-
-This is where the repo turns from *"what a satellite system is"* into actual security thinking, using the standard **4-segment model**.
-
----
-
-## 🧭 The Flow
+A satellite system isn't one thing to attack — it's several, spread across a chain that stretches from a user's handheld device all the way up to orbit. This folder maps that chain using a standard **4-segment model**, and covers where a real-world attacker can actually touch it.
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   1. USER SEGMENT        2. LINK SEGMENT         3. GROUND SEGMENT   │
-│   terminals, user    →   the RF uplink/      →    mission control,   │
-│   equipment               downlink in between      ground stations   │
-│                                                                      │
-│   "the part closest      "the open-air gap        "the highest-value │
-│    to a normal IT          between user and         target — often   │
-│    system — easiest        satellite — where        reached THROUGH  │
-│    to picture first"       most offensive-          the segments     │
-│                             techniques live"         before it"      │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-   easiest to attack  →  most exploited in practice  →  highest value
+┌──────────────────────────────────────────────────────────────────────────┐
+│                      🛰️  THE 4-SEGMENT ATTACK-SURFACE MODEL               │
+└──────────────────────────────────────────────────────────────────────────┘
+
+   👤 USER SEGMENT          📡 LINK SEGMENT          🖥️ GROUND SEGMENT         🚀 SPACE SEGMENT
+   (terminals, modems,      (the RF path             (mission control,         (the satellite
+    receivers people          between user            antennas, network         itself)
+    actually touch)           & satellite)             operations)
+          │                        │                        │                        │
+          ▼                        ▼                        ▼                        ▼
+   covered in this          covered in this          covered in this          deferred to
+   folder                   folder                   folder                   offensive-techniques/
 ```
 
-Each segment builds on the last — a weakness in the user segment is often the way *in* to the link segment, and a foothold on the link is often the way *in* to the ground segment.
-
----
+**Why space segment is deferred:** attacking the satellite itself (its onboard bus, command authority, subsystems) needs the groundwork this folder lays first — you have to understand how the other three segments get you *there*. That's exactly what [`offensive-techniques/`](../offensive-techniques/) covers in depth.
 
 ## 📂 File-by-file
 
-| # | File | One-line definition | Why it's here |
-|:-:|---|---|---|
-| 1 | 💻 [`user-segment.md`](user-segment.md) | The terminals and user equipment that sit between a human/application and the satellite network | Closest to a normal IT system — the easiest segment to picture, and often the lowest-effort entry point for an attacker |
-| 2 | 📡 [`link-segment.md`](link-segment.md) | The RF uplink/downlink channel carrying signals between ground and satellite | Builds directly on `fundamentals/communication-protocols.md` — now asking what can go wrong with that signal once it's out in the open over RF |
-| 3 | 🏢 [`ground-segment.md`](ground-segment.md) | Mission control centers, ground stations, and the data-processing/networking infrastructure behind them | The highest-value target of the three — frequently reached *through* a compromised user terminal or intercepted link, not attacked directly first |
+| Segment | File | One-line definition |
+|---|---|---|
+| 👤 User | [`user-segment.md`](user-segment.md) | The terminals and modems people actually hold or operate — often the weakest link, thanks to hardcoded credentials and exposed debug interfaces. |
+| 📡 Link | [`link-segment.md`](link-segment.md) | The radio-frequency path between a terminal and the satellite — where jamming and signal-strength asymmetries make denial-of-service cheap and effective. |
+| 🖥️ Ground | [`ground-segment.md`](ground-segment.md) | Mission control, antennas, and the networks running them — arguably the biggest risk, since it never leaves the ground and inherits every ordinary IT weakness. |
 
-> **Where's the space segment?** The satellite itself (bus, onboard software, payload) isn't a separate file here on purpose. For this repo's specialty — offensive satellite exploitation — the space segment is less "surface to survey" and more "the target you're working toward." It's covered as a technique in [`offensive-techniques/satellite-bus-attacks.md`](../offensive-techniques/satellite-bus-attacks.md) instead.
+## 📖 Read in this order
+
+```
+user-segment.md  →  link-segment.md  →  ground-segment.md
+  "what you         "the signal          "the operators
+   touch"             in between"         running it all"
+```
+
+Each file builds a slightly bigger picture of how exposed the system really is before any attacker even reaches the spacecraft itself.
+
+## ⏭️ What's next
+
+Once you understand *where* a satellite system can be reached, [`offensive-techniques/`](../offensive-techniques/) covers *how* — the specific methods that chain across these segments toward real command-and-control of a satellite.
 
 ---
 
-## 🤔 What to look for in each file
-
-Every note in this folder should leave you able to answer two things for that segment:
-
-1. **What's the attack surface** — the actual components/interfaces an attacker can reach
-2. **Why it matters** — what compromising it actually gets an attacker
-
-That "why it matters" framing is what turns this into attack-surface *thinking*, not just a components list with "attacks" bolted on.
-
----
-
-➡️ **Next up:** [`offensive-techniques/`](../offensive-techniques/) — same segments (plus the satellite itself), now asked *"how is this actually exploited, step by step?"*
+⬅️ [Back to repo root](../README.md)
